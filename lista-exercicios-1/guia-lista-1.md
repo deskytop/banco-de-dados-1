@@ -1,13 +1,13 @@
-# 🗺️ [Lista de Exercício 1](./../assets/files/Lista de Exercicios 1.pdf) - Guia
+# 🗺️ [Lista de Exercício 1](./../assets/files/Lista%20de%20Exercicios%201.pdf) - Guia
 [Voltar ao Início](./../README.md)
 ***
 ## 💻 Questões Práticas 
 | Questão  | Resolução |
 | --- | :---: |
-| Prática 1 - Livraria | [ 🟢 ](./questao_6) |
-| Prática 2 - Hospital | [ 🟢 ](./questao_7) |
-| Prática 3 - Escola | [ 🟢 ](./questao_9) |
-| Prática 4 - Projeto Livre | [ 🟢 ](./questao_10) |
+| Prática 1 - Livraria | [ 🟢 ](./questao-6) |
+| Prática 2 - Hospital | [ 🟢 ](./questao-7) |
+| Prática 3 - Escola | [ 🟢 ](./questao-9) |
+| Prática 4 - Projeto Livre | [ 🟢 ](./questao-10) |
 
 ## 📄 Questões teóricas
     1. Explique a importância da modelagem conceitual no processo de desenvolvimento de
