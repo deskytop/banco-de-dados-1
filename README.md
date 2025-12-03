@@ -4,7 +4,7 @@ Repositório criado para armazenar listas de exercícios e suas resoluções par
 ## Listas de Exercícios
 | Lista  | Resolução |
 | ------------- | ------------- |
-| [1 - Modelagem Conceitual de Banco de Dados](/assets/files/Lista de Exercicios 1.pdf)  | [Guia - Lista 1](/lista-exercicios-1/guia-lista-1.md)|
+| [1 - Modelagem Conceitual de Banco de Dados](/assets/files/Lista%20de%20Exercicios%201.pdf)  | [Guia - Lista 1](/lista-exercicios-1/guia-lista-1.md)|
 | ...  | ...  |
 | ...  | ...  |
 
