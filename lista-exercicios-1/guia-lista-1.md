@@ -25,13 +25,13 @@ _R= Uma entidade forte existe por si só e tem uma chave primária própria (ex:
 	Explique por que a escolha correta da chave primária é fundamental.
 
 _R= 
-Superchave: Qualquer conjunto de atributos que identifica unicamente uma linha (ex: {cpf, nome}).
+Superchave: Qualquer conjunto de atributos que identifica unicamente uma linha (ex: {cpf, nome})._
 
-Chave Candidata: É uma superchave mínima, sem atributos redundantes (ex: {cpf}).
+_Chave Candidata: É uma superchave mínima, sem atributos redundantes (ex: {cpf})._
 
-Chave Primária: É a chave candidata escolhida para ser o identificador principal da tabela.
+_Chave Primária: É a chave candidata escolhida para ser o identificador principal da tabela._
 
-A escolha correta da chave primária é fundamental porque ela garante a unicidade dos dados, é a base para criar relacionamentos entre tabelas e otimiza a performance das consultas._
+_A escolha correta da chave primária é fundamental porque ela garante a unicidade dos dados, é a base para criar relacionamentos entre tabelas e otimiza a performance das consultas._
 
     4. O que são relacionamentos ternários em um modelo entidade-relacionamento (MER)?
 	Dê um exemplo de situação em que esse tipo de relacionamento é necessário.
@@ -42,8 +42,8 @@ _R= Um relacionamento ternário é a associação simultânea de três entidades
 	representá-los e quando é recomendável normalizar sua representação.
 
 
-_R= Atributo Multivalorado: Permite vários valores para uma entidade (ex: telefones de um cliente). É representado por uma elipse dupla e, ao criar o banco de dados, deve ser normalizado, tornando-se uma nova tabela separada.
+_R= Atributo Multivalorado: Permite vários valores para uma entidade (ex: telefones de um cliente). É representado por uma elipse dupla e, ao criar o banco de dados, deve ser normalizado, tornando-se uma nova tabela separada._
 
-Atributo Derivado: Seu valor é calculado a partir de outros atributos (ex: idade a partir da data_nascimento). É representado por uma elipse tracejada e, geralmente, não é armazenado na tabela, sendo calculado pela aplicação quando necessário para garantir consistência._
+_Atributo Derivado: Seu valor é calculado a partir de outros atributos (ex: idade a partir da data_nascimento). É representado por uma elipse tracejada e, geralmente, não é armazenado na tabela, sendo calculado pela aplicação quando necessário para garantir consistência._
 ***
 [Voltar ao Início](./../README.md)
