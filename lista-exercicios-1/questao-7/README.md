@@ -1,2 +1,2 @@
 # Questão 7 - Hospital
-![Exemplo](/q7.png)
+![Exemplo](./q7.png)
